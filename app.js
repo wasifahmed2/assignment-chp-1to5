@@ -1,39 +1,39 @@
 //Assignment java_Script//
 
-//Alert//
+//CHAPTER 01 : Alert//
 //Q no: 01//
-// alert("Assalam-O-Alaikum");
+alert("Assalam-O-Alaikum");
 
 //Q no:02//
-// alert("Hello! Welcome to our website.");
+alert("Hello! Welcome to our website.");
 
 //Q no:03//
-// alert("This is java \nscript");
+alert("This is java \nscript");
 
-//Variable and Strings//
-// //Q no:01//
-// let username;
-// console.log(username);
+//CHAPTER 02 : Variable and Strings//
+//Q no:01//
+let username;
+console.log(username);
 
-// //Q no:02//
-// let myName = "wasifahmed"
-// console.log(myName);
+//Q no:02//
+let myName = "wasifahmed"
+console.log(myName);
 
-// //Q no:03//
-// let message = "Hello world";
-// alert(message);
+//Q no:03//
+let message = "Hello world";
+alert(message);
 
-// //Q no:04//
-// let name = "wasifahmed";
-// let age = "16";
-// let course = "Web Mobile and App Development";
-// alert(name);
-// alert(age);
-// alert(course);
+//Q no:04//
+let name = "wasifahmed";
+let aged = "16";
+let course = "Web Mobile and App Development";
+alert(name);
+alert(aged);
+alert(course);
 
-//Q no:05//
-// let food = "PIZZA\nPIZZ\nPIZ\nPI\nP";
-// alert(food);
+// Q no:05//
+let food = "PIZZA\nPIZZ\nPIZ\nPI\nP";
+alert(food);
 
 //Q no:06//
 let email = "ahmedwasif036@gmail.com";
@@ -49,7 +49,7 @@ alert(book);
 let style = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬” ";
 alert(style);
 
-//Variable For Numeber//
+//CHAPTER : Variable For Numeber//
 //Q no:01
 
 let age = "I am " + age  ;
